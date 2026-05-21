@@ -39,8 +39,10 @@
 
 ## 파일 설명
 
-- `Colab_시작하기의_사본.ipynb`: 분석 코드가 포함된 Colab 노트북
-- `KoACD_analysis_results (1).zip`: 분석 결과 파일
+## 파일 설명
+
+- `KoACD_analysis.ipynb`: KoACD 공식 GitHub 저장소의 CSV 파일을 직접 불러와 전처리, 언어 특성 추출, 카이제곱 검정, Kruskal-Wallis 검정, Random Forest 분석을 수행하는 Colab 노트북
+- `KoACD_analysis_results.zip`: 분석 결과표와 그림 파일을 압축한 결과 파일
 
 ## 논문 관련
 
